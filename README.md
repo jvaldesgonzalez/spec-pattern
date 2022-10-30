@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/edb01b4dc0f14832b7c11e4e291cae29)](https://app.codacy.com/gh/jvaldesgonzalez/spec-pattern?utm_source=github.com&utm_medium=referral&utm_content=jvaldesgonzalez/spec-pattern&utm_campaign=Badge_Grade_Settings)
 [![npm (tag)](https://img.shields.io/npm/v/spec-pattern?color=green&label=NPM&style=for-the-badge)](https://github.com/thiagodp/spec-pattern/releases)
 [![License](https://img.shields.io/npm/l/spec-pattern.svg?style=for-the-badge&color=green)](https://github.com/thiagodp/spec-pattern/blob/master/LICENSE.txt)
 [![npm](https://img.shields.io/npm/dt/spec-pattern?style=for-the-badge&color=green)](https://www.npmjs.com/package/spec-pattern)
